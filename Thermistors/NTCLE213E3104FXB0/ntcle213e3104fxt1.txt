@@ -1,0 +1,15 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"NTCLE213E3104FXT1";"";
+"TraceParts.PartVersion";"1.0.4";"";
+"SUPPLIER";"VISHAY";"";
+"TraceParts.PartStatus";"Published";"";
+"b25_85_k";"4190";"";
+"TraceParts.PartNumber";"90-11012017-113169";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"NTC Mini Epoxy coated 100k 1% Tape&Reel";"";
+"TraceParts.InstanceId";"90-11012017-113169854WT0AZVQ0XQZC57KRWEIR7V";"";
+"TraceParts.PartTitle";"NTCLE213 Mini Epoxy coated";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"mass_g";"0,1";"";
+"TraceParts.ClassPath";"VISHAY:90-11012017-113169";"";
